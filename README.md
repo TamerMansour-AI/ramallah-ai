@@ -1,1 +1,2 @@
-Ramallah.ai build – upload contents of this folder to your hosting. 
+# Ramallah.ai
+A bilingual platform for Palestinian AI creativity.
